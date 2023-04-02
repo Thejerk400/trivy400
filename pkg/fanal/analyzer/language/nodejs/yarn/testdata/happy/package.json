@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "js-tokens": "^2.0.0",
-    "scheduler": "0.13.6"
+    "scheduler": "0.23.0"
   },
   "devDependencies": {
     "prop-types": "15.7.2"
