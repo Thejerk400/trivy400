@@ -1,3 +1,3 @@
-FROM alpine:3.10
+FROM alpine:3.14
 
 ADD foo.txt .
